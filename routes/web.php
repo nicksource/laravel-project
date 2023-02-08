@@ -21,6 +21,6 @@ Route::get('about', function () {
     return view('welcome');// test
 });
 
-Route::get('ews', function () {
+Route::get('News', function () {
     return view('welcome');// test
 });
