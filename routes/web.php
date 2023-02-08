@@ -20,7 +20,7 @@ Route::get('/', function () {
 Route::get('about', function () {
     return view('welcome');// test
 });
-
+//test...
 Route::get('ews', function () {
     return view('welcome');// test
 });
