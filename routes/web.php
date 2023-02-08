@@ -18,5 +18,9 @@ Route::get('/', function () {
 });
 
 Route::get('about', function () {
-    return view('welcome');
+    return view('welcome');// test
+});
+
+Route::get('ews', function () {
+    return view('welcome');// test
 });
