@@ -1,0 +1,36 @@
+[33mcommit ab6fff24fda3035a95927aef047217c91b93b82e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8c261ef b8cb02d
+Author: = <=>
+Date:   Wed Feb 8 15:26:22 2023 +0000
+
+    Merge branch 'issue-53'
+
+[33mcommit 8c261ef21ddf104fd59422a44ac4f13092a82f82[m
+Author: = <=>
+Date:   Wed Feb 8 14:24:30 2023 +0000
+
+    note
+
+[33mcommit b8cb02d26ff691e93e1399bf061e1890b4bb0d51[m[33m ([m[1;32missue-53[m[33m)[m
+Author: = <=>
+Date:   Wed Feb 8 14:22:46 2023 +0000
+
+    fixed it
+
+[33mcommit 09394dc3b3ddc54e0ddd4039c8910a83c5d7f0b8[m
+Author: = <=>
+Date:   Wed Feb 8 14:19:04 2023 +0000
+
+    add news page
+
+[33mcommit 7643097f866a9b6ff6c4dbadb1e50f608535241e[m
+Author: = <=>
+Date:   Wed Feb 8 14:12:45 2023 +0000
+
+    Add reporting
+
+[33mcommit 0881e7925a1d54d6d20e6d01a1a03980fb8dc849[m
+Author: = <=>
+Date:   Wed Feb 8 13:58:35 2023 +0000
+
+    Install Laravel
