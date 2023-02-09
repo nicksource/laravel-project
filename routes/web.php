@@ -25,3 +25,7 @@ Route::get('about', function () {
 Route::get('News', function () {
     return view('welcome');// test
 });
+
+Route::get('contactus', function () {
+    return view('welcome');// test
+});
